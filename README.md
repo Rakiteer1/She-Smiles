@@ -1,14 +1,13 @@
 # She-Smiles
-
-From the book: Learn Python the Hard Way by Zed Shaw.
+Iimplementation of homework,
+from the book: Learn Python the Hard Way by Zed Shaw.
 
 Disclaimer I am not Zed Shaw.
 
-This is my implementation of the homework in Exercise 36.
+This is my implementation of the homework in Exercise 36,
+were the student is required to write a game similar to the one by Shaw.
 
-Were the student is required to write a game similar to the one by Shaw.
-
-For referene see page 121 of the book.
+For reference see page 121 of the book.
 
 -----------------------------------------------------
 
@@ -21,4 +20,4 @@ ultimately resolution and new purpose.
 
 Based on the writers own experience.
 
-Venting, therapy, and programming practice all in one activity. Oh my!
+Venting, therapy, fantasy elements, and programming practice all in one activity. Oh my!
